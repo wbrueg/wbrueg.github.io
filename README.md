@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Winfried's Model Airplanes
 
-You can use the [editor on GitHub](https://github.com/wbrueg/wbrueg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This web page will not use cookies at all and keep your privacy untouched.
+It just display a selection of my airplanes to get familiar with Github Pages.
 
 ### Markdown
 
