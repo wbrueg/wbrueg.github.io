@@ -1,6 +1,6 @@
-## Welcome to Winfried's Model Airplanes
+## Welcome to Winfried's Model Airplanes Web Page
 
-This web page will not use cookies at all and keep your privacy untouched.
+This web pages will not use cookies at all and keep your privacy untouched.
 It just display a selection of my airplanes to get familiar with Github Pages.
 
 ### Markdown
