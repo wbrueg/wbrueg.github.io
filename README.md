@@ -1,7 +1,8 @@
 ## Welcome to Winfried's Model Airplanes Web Page
 
-This web pages will not use cookies at all and keep your privacy untouched.
-It just display a selection of my airplanes to get familiar with Github Pages.
+This static web pages will just display a selection of my airplanes to get familiar with Github Pages.
+
+Below we find initial markdown references.
 
 ### Markdown
 
