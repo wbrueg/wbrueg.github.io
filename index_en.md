@@ -1,23 +1,24 @@
 ---
 layout: default
+title: Winfried's Model Airplanes
 ---
 
-# Einführung
+# Introduction
 
 
 
 
-Da es sich hier um eine private Seite handelt, 
-werden hier nur meine privaten Interessen behandelt!
+Since this is a private site,
+only my private interests are dealt with here!
 
 
 
-Segelflugmodellbau - das Erfahren von motorlosem Flug, 
-nimmt zeitlich gesehen, zwar keinen besonders großen Teil ein, 
-dafür liegt hier, seit mehr als 25 Jahren, mein besonderes Interesse.
+Glider model making - experiencing motorless flight,
+does not take up a particularly large amount of time,
+anyhow I have been particularly interested in this for more than 25 years.
 
 
-Wer also mit Aerodynamik, Modellbau oder Segelflug 
-nichts am Hut hat wird hier nicht besonders glücklich werden.
+So anyone who has nothing to with aerodynamics, model building 
+or model soaring will not get particularly happy here.
 
 [![disclaimer](http://www.disclaimer.de/images/d_gold.gif)](http://www.disclaimer.de/disclaimer.htm?farbe=FFFFFF/000000/000000/000000)
