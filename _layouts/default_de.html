@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+
+	<head>
+	    <meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width,initial-scale=1" />
+	    <title>{{ page.title | default: site.title }}</title>
+	    <link rel="stylesheet" href="assets/css/Master.css">
+	</head>
+	
+	<body style="background-color: white;" lang="de-DE">
+		<div id="Header">
+		    <h1>{{ page.title | default: site.title }}</h1>
+		</div>
+		
+		<div id="LangSelect">
+			{% include _langselect.html %}
+		</div>
+		
+		<div id="Menu">
+			{% include _menu.html %}
+		</div>
+		
+		<center>
+			<div id="Content">
+				{{ content }}
+			</div>
+		</center>
+	</body>
+</html>
