@@ -17,7 +17,7 @@ only my private interests are dealt with here!
 
 Glider model making - experiencing motorless flight,
 does not take up a particularly large amount of time,
-anyhow I have been particularly interested in this for more than 25 years.
+anyhow I have been particularly interested in this for more than 40 years.
 
 
 So anyone who has nothing to do with aerodynamics, model building 

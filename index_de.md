@@ -17,7 +17,7 @@ werden hier nur meine privaten Interessen behandelt!
 
 Segelflugmodellbau - das Erfahren von motorlosem Flug, 
 nimmt zeitlich gesehen, zwar keinen besonders großen Teil ein, 
-dafür liegt hier, seit mehr als 25 Jahren, mein besonderes Interesse.
+dafür liegt hier, seit mehr als 40 Jahren, mein besonderes Interesse.
 
 
 Wer also mit Aerodynamik, Modellbau oder Segelflug 
